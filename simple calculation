@@ -1,0 +1,3 @@
+a=int(input("Enter the  first digits "))
+b=int(input("Enter the  secound digits "))
+print" The product of two digits are :" + a*b
